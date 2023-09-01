@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(182, 192, 42);
+}
+.Header{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkgoldenrod;
+}
+.Pantrysection{
+    text-align: left;
+    color: rgb(30, 168, 210);
+    background-color: green;
+    margin-left: 30px;
+    width: 40%;
+    height: 50px;
+}
+.block1{
+    display: inline-block;
+    background-color: chocolate;
+    width: 200px;
+    height: 200px;
+    margin-left: 30px;
+}
+
+.picture{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 35px;
+
+}
+.freezesection{
+    text-align: left;
+    color: rgb(30, 168, 210);
+    background-color: green;
+    margin-left: 30px;
+    width: 40%;
+    height: 50px;
+}
+.block2{
+    display: inline-block;
+    background-color: chocolate;
+    width: 200px;
+    height: 200px;
+    margin-left: 30px;
+}
+
+.picture{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 35px;
+}
